@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kx05UXhmtel3KuY2MdY5TT1zRCLVbamdIBXMvkTNWNsR9PuDctVaue8xbo4PvnLKwCZMDNwcyyw69+hegCiYVg==",
+  "success": true,
+  "projectFilePath": "D:\\Local\\Fun_Nutrition\\Fun_Nutrition\\Fun_Nutrition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GTKQ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
