@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b70be90b-ce44-4fcb-bbbb-5c2b54ad03e8": {
+      "ProjectGuid": "b70be90b-ce44-4fcb-bbbb-5c2b54ad03e8",
+      "DisplayName": "Fun_Nutrition",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
