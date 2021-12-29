@@ -40,7 +40,9 @@ namespace Fun_Nutrition.Controllers
         }
         public IActionResult Display_Percentage()
         {
-            ViewBag.Percentage = "0.1%";
+            Random random = new Random();
+            double num = random.NextDouble();
+            ViewBag.Percentage = num.ToString();
             return View();
         }
     }
