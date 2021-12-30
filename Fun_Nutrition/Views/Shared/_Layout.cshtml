@@ -1,17 +1,17 @@
 ﻿<!DOCTYPE html>
-<script type="text/javascript">
+@*<script type="text/javascript">
         function notEmpty(){
         var myTextField = "Hello";
    
 
                 alert(myTextField);
 }
-    </script> 
+    </script> *@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Fun_Nutrition</title>
+    <meta name="vieleftidth=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Fun Nutrition</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet1" href="~/css/site.css" />
 </head>
@@ -19,11 +19,12 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a style="white-space: normal;  text-align: center;  word-break: break-all;  color: white;  background-color: darkgreen;  font-style: italic;  border-block-color: darkblue;  border-radius: 5px;" class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Fun Nutrition</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                <div style="white-space: normal;  text-align: center;  word-break: break-all;  color: white;  background-color: darkgreen;  font-style: italic; 
+                    border-block-color: darkblue;  font-size:larger;border-radius: 5px; padding-right: 5px; padding-left: 5px">Fun Nutrition</div>
+@*                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">clickme
                     <span class="navbar-toggler-icon"></span>
-                </button>
+                </button>*@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
@@ -34,22 +35,17 @@
                         </li>
                     </ul>
                 </div>
-                <input type="submit" value='notEmpty' onclick="notEmpty()" onkeypress="notEmpty()" class="submit" />
+                @*<input type="submit" value='notEmpty' onclick="notEmpty()" onkeypress="notEmpty()" class="submit" />*@
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-    <div>
-        Welcome to Fun Nutrition, your one stop point for all about nutrition !
-    </div>
-    <a href="https://nutritionfacts.org/">click here to learn more about nutrition</a>.
-    <div>
-        <img id="img_logo" alt="Logo" src="~/images/nutri.jpg" height="500" width="500" />
-    </div>
+    
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2021 - Fun Nutrition - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
