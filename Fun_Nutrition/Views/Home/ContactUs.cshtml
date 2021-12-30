@@ -4,13 +4,20 @@
 @{
     ViewData["Title"] = "Contact us";
 }
+<script language="C#" runat="server">
 
+      protected void FancyBtn_Click(object sender, EventArgs e)
+      {  
+        Message.InnerHtml = "Your name is: Tsewa"; 
+      }
+      
+</script>
 <div>
     Tsewang <br />
     Bengaluru <br />
     00112233 
 </div>
 
-<button type="button">
+<button type="button" onclick="FancyBtn_Click" runat="server">
     Send Review
 </button>
