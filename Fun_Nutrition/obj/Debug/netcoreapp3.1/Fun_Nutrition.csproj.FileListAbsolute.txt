@@ -8,7 +8,6 @@ D:\Local\Fun_Nutrition\Fun_Nutrition\bin\Debug\netcoreapp3.1\Fun_Nutrition.dll
 D:\Local\Fun_Nutrition\Fun_Nutrition\bin\Debug\netcoreapp3.1\Fun_Nutrition.pdb
 D:\Local\Fun_Nutrition\Fun_Nutrition\bin\Debug\netcoreapp3.1\Fun_Nutrition.Views.dll
 D:\Local\Fun_Nutrition\Fun_Nutrition\bin\Debug\netcoreapp3.1\Fun_Nutrition.Views.pdb
-D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.csproj.AssemblyReference.cache
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.GeneratedMSBuildEditorConfig.editorconfig
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.AssemblyInfoInputs.cache
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.AssemblyInfo.cs
@@ -20,7 +19,9 @@ D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\staticwebassets\Fun
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.TagHelpers.input.cache
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.TagHelpers.output.cache
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.RazorCoreGenerate.cache
+D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\Display_Percentage.cshtml.g.cs
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\Nutrition.cshtml.g.cs
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -34,5 +35,4 @@ D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.dll
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.pdb
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.genruntimeconfig.cache
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.csproj.CopyComplete
-D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\Nutrition.cshtml.g.cs
-D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\Display_Percentage.cshtml.g.cs
+D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.csproj.AssemblyReference.cache
