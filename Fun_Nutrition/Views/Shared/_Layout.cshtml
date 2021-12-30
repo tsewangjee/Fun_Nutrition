@@ -19,7 +19,7 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Fun_Nutrition</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Fun Nutrition</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -28,9 +28,6 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Nutrition">Nutrition</a>
@@ -50,10 +47,12 @@
         Welcome to Fun Nutrition, your one stop point for all about nutrition !
     </div>
     <a href="https://nutritionfacts.org/">click here to learn more about nutrition</a>.
-    <img id="img_logo" alt="Logo" src=@Url.Content("~/images/nutri.jpg") />
+    <div>
+        <img id="img_logo" alt="Logo" src="~/images/nutri.jpg" height="500" width="500" />
+    </div>
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2021 - Fun_Nutrition - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2021 - Fun Nutrition - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
