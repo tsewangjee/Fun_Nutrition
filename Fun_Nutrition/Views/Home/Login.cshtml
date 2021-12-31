@@ -4,7 +4,18 @@
 @{
     ViewData["Title"] = "Nutrition";
 }
-
+<script type="text/javascript">
+        function Login()
+        {
+        var myTextField = "be back";
+        alert(myTextField);
+        }
+        function SignUp()
+        {
+        var myTextField = "not yet";
+        alert(myTextField);
+        }
+</script>
 <table>
     <tr>
         <tr>
@@ -26,7 +37,7 @@
             <input type="text"/>
         </td>
     </tr>
-    <tr><td><button type="button" onclick="notEmpty()" onkeypress="notEmpty()">Login</button></td></tr>
+    <tr><td><button type="button" onclick="Login()" >Login</button></td></tr>
     </tr>
     <tr>
         <td> Create Account? </td>
@@ -62,5 +73,5 @@
             <input type="password"/>
         </td>
     </tr>
-    <tr><td><button type="button" onclick="notEmpty()" onkeypress="notEmpty()">Sign Up</button></td></tr>
+    <tr><td><button type="button" onclick="SignUp()" onkeypress="signup()">Sign Up</button></td></tr>
 </table>
