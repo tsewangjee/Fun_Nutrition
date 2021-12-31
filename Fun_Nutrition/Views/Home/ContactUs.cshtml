@@ -4,14 +4,13 @@
 @{
     ViewData["Title"] = "Contact us";
 }
-<script language="C#" runat="server">
-
-      protected void FancyBtn_Click(object sender, EventArgs e)
-      {  
-        Message.InnerHtml = "Your name is: Tsewa"; 
-      }
-      
-</script>
+<script type="text/javascript">
+        function notEmpty()
+        {
+        var myTextField = "Hello";
+        alert(myTextField);
+        }
+</script> 
 <div>
     Tsewang <br />
     Bengaluru <br />
@@ -38,5 +37,5 @@
             <input type="text"/>
         </td>
     </tr>
-    <tr><td><button type="button">Login</button></td></tr>
+    <tr><td><button type="button" onclick="notEmpty()" onkeypress="notEmpty()">Login</button></td></tr>
 </table>
