@@ -53,6 +53,12 @@ namespace Fun_Nutrition.Controllers
             return View();
         }
 
+
+        public IActionResult PostQuestionscshtml()
+        {
+            return View();
+        }
+        
         public IActionResult VarietiesOfExercise()
         {
             return View();
