@@ -20,6 +20,15 @@
         var myTextField = "eamil sent!";
         alert(myTextField);
         }
+
+        function reactiveLightingBTN()
+        {
+            if(Element.color = "blue")
+            Element.color = "red";
+            else
+            Element.color = "blue";
+        }
+
 </script>
 <table>
     <tr>
@@ -87,3 +96,4 @@
     @Html.EditorFor(model => model.name, new string{htmlAttributes = new {@class = "form-control"}})
     @Html.ValidationMessageFor(Model => model.name, "", new {@class = "text-danger"})
 </div>
+<button id="reactivebtn" type="button" onclick="reactiveLightingBTN()" >Reactive</button>
