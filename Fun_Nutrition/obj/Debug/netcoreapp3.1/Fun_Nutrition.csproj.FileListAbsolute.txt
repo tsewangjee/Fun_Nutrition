@@ -42,3 +42,4 @@ D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lo
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\Excercise.cshtml.g.cs
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\VarietiesOfExercise.cshtml.g.cs
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\PostQuestionscshtml.cshtml.g.cs
+D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Razor\Views\Home\UsefulProducts.cshtml.g.cs
