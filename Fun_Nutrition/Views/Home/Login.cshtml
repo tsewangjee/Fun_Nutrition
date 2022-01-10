@@ -93,7 +93,7 @@
     <tr><td><button type="button" onclick="SignUp()" onkeypress="signup()">Sign Up</button></td></tr>
 </table>
 <div>
-    @Html.EditorFor(model => model.name, new string{htmlAttributes = new {@class = "form-control"}})
-    @Html.ValidationMessageFor(Model => model.name, "", new {@class = "text-danger"})
+   @* @Html.EditorFor(model => model.name, new string{htmlAttributes = new {@class = "form-control"}})
+    @Html.ValidationMessageFor(Model => model.name, "", new {@class = "text-danger"})*@
 </div>
 <button id="reactivebtn" type="button" onclick="reactiveLightingBTN()" >Reactive</button>
