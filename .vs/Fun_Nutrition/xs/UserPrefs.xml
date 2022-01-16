@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B70BE90B-CE44-4FCB-BBBB-5C2B54AD03E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fun_Nutrition/Views/Home/PostQuestionscshtml.cshtml">
+    <Files>
+      <File FileName="Fun_Nutrition/Views/Home/PostQuestionscshtml.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fun_Nutrition" expanded="True">
+            <Node name="Fun_Nutrition" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="PostQuestionscshtml.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Fun__Nutrition PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
