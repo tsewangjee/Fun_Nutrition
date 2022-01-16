@@ -1,20 +1,17 @@
 ﻿<Properties StartupConfiguration="{B70BE90B-CE44-4FCB-BBBB-5C2B54AD03E8}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fun_Nutrition/Views/Home/PostQuestionscshtml.cshtml">
+    <Files>
+      <File FileName="Fun_Nutrition/Views/Home/PostQuestionscshtml.cshtml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fun_Nutrition" expanded="True">
             <Node name="Fun_Nutrition" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="ErrorViewModel.cs" selected="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="PostQuestionscshtml.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
