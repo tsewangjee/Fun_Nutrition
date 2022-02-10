@@ -8,10 +8,4 @@
     <None Include="wwwroot\images\nutri.jpg" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Content Update="wwwroot\images\nutri.jpg">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
-
 </Project>
