@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tenzingyurmey/Desktop/Fun_Nutrition/Fun_Nutrition/Fun_Nutrition.csproj": {}
+    "D:\\Local\\Fun_Nutrition\\Fun_Nutrition\\Fun_Nutrition.csproj": {}
   },
   "projects": {
-    "/Users/tenzingyurmey/Desktop/Fun_Nutrition/Fun_Nutrition/Fun_Nutrition.csproj": {
+    "D:\\Local\\Fun_Nutrition\\Fun_Nutrition\\Fun_Nutrition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tenzingyurmey/Desktop/Fun_Nutrition/Fun_Nutrition/Fun_Nutrition.csproj",
+        "projectUniqueName": "D:\\Local\\Fun_Nutrition\\Fun_Nutrition\\Fun_Nutrition.csproj",
         "projectName": "Fun_Nutrition",
-        "projectPath": "/Users/tenzingyurmey/Desktop/Fun_Nutrition/Fun_Nutrition/Fun_Nutrition.csproj",
-        "packagesPath": "/Users/tenzingyurmey/.nuget/packages/",
-        "outputPath": "/Users/tenzingyurmey/Desktop/Fun_Nutrition/Fun_Nutrition/obj/",
+        "projectPath": "D:\\Local\\Fun_Nutrition\\Fun_Nutrition\\Fun_Nutrition.csproj",
+        "packagesPath": "C:\\Users\\GTKQ\\.nuget\\packages\\",
+        "outputPath": "D:\\Local\\Fun_Nutrition\\Fun_Nutrition\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/tenzingyurmey/.config/NuGet/NuGet.Config"
+          "C:\\Users\\GTKQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.nordstrom.com/artifactory/api/nuget/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -47,6 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -55,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
