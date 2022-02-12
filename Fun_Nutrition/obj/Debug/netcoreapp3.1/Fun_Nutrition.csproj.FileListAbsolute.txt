@@ -89,3 +89,4 @@ D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.dll
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.pdb
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.genruntimeconfig.cache
 D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.csproj.CopyComplete
+D:\Local\Fun_Nutrition\Fun_Nutrition\obj\Debug\netcoreapp3.1\Fun_Nutrition.csproj.AssemblyReference.cache
