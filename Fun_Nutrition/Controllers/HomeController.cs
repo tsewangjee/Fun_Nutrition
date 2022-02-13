@@ -54,7 +54,7 @@ namespace Fun_Nutrition.Controllers
         }
 
 
-        public IActionResult PostQuestionscshtml()
+        public IActionResult PostQuestions()
         {
             return View();
         }
