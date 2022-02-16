@@ -81,5 +81,12 @@ namespace Fun_Nutrition.Controllers
             ViewBag.Percentage = num.ToString();
             return View();
         }
+
+        public IActionResult Password_Reset()
+        {
+            string passwordText = "Please enter your email";
+            ViewBag.Percentage = passwordText;
+            return View();
+        }
     }
 }
