@@ -21,5 +21,14 @@ namespace Fun_Nutrition.Controllers
             ViewBag.Percentage = num.ToString();
             return View();
         }
+
+        public void result()
+        {
+            int wer = 0;
+            int her = 0;
+            string trim = "";
+
+            //methods to be added
+        }
     }
 }
