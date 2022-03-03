@@ -27,8 +27,20 @@ namespace Fun_Nutrition.Controllers
             int wer = 0;
             int her = 0;
             string trim = "";
+            bool res = check(trim);
 
-            //methods to be added
+            if (res)
+                her = 1;
+            else
+                //do nothing
+        }
+
+        public bool check(string trim_str)
+        {
+            if (trim_str == "")
+                return false;
+            else
+                return true;
         }
     }
 }
