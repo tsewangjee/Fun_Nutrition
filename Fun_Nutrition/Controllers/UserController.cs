@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Fun_Nutrition.Controllers
 {
@@ -41,6 +43,14 @@ namespace Fun_Nutrition.Controllers
                 return false;
             else
                 return true;
+        }
+
+        public Enumerable<string> lstStr(string trim_str)
+        {
+            List<string> vs = new List<string>();
+            string str = "test";
+            vs.Add(str);
+            return vs.AsEnumerable();
         }
     }
 }
