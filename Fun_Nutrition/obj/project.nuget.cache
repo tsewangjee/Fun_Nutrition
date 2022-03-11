@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kx05UXhmtel3KuY2MdY5TT1zRCLVbamdIBXMvkTNWNsR9PuDctVaue8xbo4PvnLKwCZMDNwcyyw69+hegCiYVg==",
+  "dgSpecHash": "JStliYG0Knl+PgULrJ4HET1BT6g7Uz68WPIJuTI83/PdXsJQg/bBr4ifwCQ6Vd7pT+9w7rb/46YAz3kysVYwjQ==",
   "success": true,
   "projectFilePath": "D:\\Local\\Fun_Nutrition\\Fun_Nutrition\\Fun_Nutrition.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\GTKQ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

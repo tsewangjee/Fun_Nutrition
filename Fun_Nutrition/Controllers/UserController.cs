@@ -24,7 +24,7 @@ namespace Fun_Nutrition.Controllers
             return View();
         }
 
-        public void result()
+        public void result(int x, int y)
         {
             int wer = 0;
             int her = 0;
@@ -34,7 +34,9 @@ namespace Fun_Nutrition.Controllers
             if (res)
                 her = 1;
             else
-                //do nothing
+                wer = 1;
+            x = wer;
+            y = her;
         }
 
         public bool check(string trim_str)
