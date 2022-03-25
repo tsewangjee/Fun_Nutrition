@@ -54,10 +54,7 @@ namespace Fun_Nutrition.Controllers
             vs.Add(str);
             return vs.AsEnumerable();
 
-            int[] array = new int[5];
-            array[0] = 1;
-            array[1] = 2;
-            //add array
+           
         }
     }
 }
