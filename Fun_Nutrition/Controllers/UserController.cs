@@ -47,14 +47,6 @@ namespace Fun_Nutrition.Controllers
                 return true;
         }
 
-        public Enumerable<string> lstStr(string trim_str)
-        {
-            List<string> vs = new List<string>();
-            string str = "test";
-            vs.Add(str);
-            return vs.AsEnumerable();
-
-           
-        }
+        
     }
 }
