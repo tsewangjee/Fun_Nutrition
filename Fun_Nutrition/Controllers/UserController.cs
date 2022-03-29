@@ -39,14 +39,5 @@ namespace Fun_Nutrition.Controllers
             y = her;
         }
 
-        public bool check(string trim_str)
-        {
-            if (trim_str == "")
-                return false;
-            else
-                return true;
-        }
-
-        
     }
 }
