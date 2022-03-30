@@ -31,12 +31,6 @@ namespace Fun_Nutrition.Controllers
             string trim = "";
             bool res = check(trim);
 
-            if (res)
-                her = 1;
-            else
-                wer = 1;
-            x = wer;
-            y = her;
         }
 
     }
