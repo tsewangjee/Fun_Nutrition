@@ -24,14 +24,6 @@ namespace Fun_Nutrition.Controllers
             return View();
         }
 
-        public void result(int x, int y)
-        {
-            int wer = 0;
-            int her = 0;
-            string trim = "";
-            bool res = check(trim);
-
-        }
 
     }
 }
